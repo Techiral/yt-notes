@@ -1,14 +1,14 @@
 ![screenshot](https://mp-bca925c9-72bc-4e92-8c87-d596015241bf.cdn.bspapp.com/2024/06/29/48052030-56853423-SafariLight.png)
 
-# [inWind Landing Page Template](https://landingpage.huglemon.com/)
+# [VidDraft](https://landingpage.huglemon.com/)
 
 🌍 *[English](README.md) ∙ [简体中文](README-zh.md)*
 
-### inWind Landing Page Template是什么
+### VidDraft是什么
 
-inWind Landing Page 是基于 Next.js 给出海SaaS项目开发的Landing Page模板，完全开源、免费，完美的SEO和多语言支持。
+VidDraft Landing Page 是基于 Next.js 给出海SaaS项目开发的Landing Page模板，完全开源、免费，完美的SEO和多语言支持。
 
-### 为什么开发inWind Landing Page
+### 为什么开发VidDraft Landing Page
 
 1. 首先是受到了@weijunext 大佬的影响，决定也开源一个Landing Page方便大家选择；
 2. 其次是最近也在给传统工厂提供B2B的独立站开发，但我原本的uni-app开发属于SPA项目，对SEO非常不友好，所以重新啃完了Next.js的开发，这也算是练手之作；
@@ -31,7 +31,7 @@ inWind Landing Page 是基于 Next.js 给出海SaaS项目开发的Landing Page�
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=huglemon/inwind-landing-page&type=Date)](https://star-history.com/#huglemon/inwind-landing-page&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=huglemon/VidDraft-landing-page&type=Date)](https://star-history.com/#huglemon/VidDraft-landing-page&Date)
 
 
 ### 感谢与支持

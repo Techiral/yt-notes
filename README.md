@@ -1,14 +1,14 @@
 ![screenshot](https://mp-bca925c9-72bc-4e92-8c87-d596015241bf.cdn.bspapp.com/2024/06/29/48052030-56853423-SafariLight.png)
 
-# [inWind Landing Page Template](https://landingpage.huglemon.com/)
+# [VidDraft](https://landingpage.huglemon.com/)
 
 🌍 *[English](README.md) ∙ [简体中文](README-zh.md)*
 
-### What is inWind Landing Page
+### What is VidDraft Landing Page
 
-inWind Landing Page is a Landing Page template developed for global SaaS projects based on Next.js. It is completely open source, free, and offers perfect SEO and multi-language support.
+VidDraft Landing Page is a developed for global SaaS projects based on Next.js. It is completely open source, free, and offers perfect SEO and multi-language support.
 
-### Why develop inWind Landing Page
+### Why develop VidDraft Landing Page
 
 1. First, influenced by the big shot @weijunext, I decided to also open source a Landing Page for everyone to choose from;
 2. Secondly, I have also been developing independent B2B websites for traditional factories recently, but my original uni-app development is a SPA project, which is very unfriendly to SEO, so I re-studied Next.js development, which is also a practice project;
@@ -31,7 +31,7 @@ inWind Landing Page is a Landing Page template developed for global SaaS project
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=huglemon/inwind-landing-page&type=Date)](https://star-history.com/#huglemon/inwind-landing-page&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=huglemon/VidDraft-landing-page&type=Date)](https://star-history.com/#huglemon/VidDraft-landing-page&Date)
 
 
 ### Thanks and Support

@@ -71,7 +71,7 @@ export default function Navbar() {
 					<a
 						aria-label='get template source code'
 						title='get template source code'
-						href='https://github.com/huglemon/inwind-landing-page'
+						href='https://github.com/huglemon/VidDraft-landing-page'
 					>
 						<SiGithub size={14} />
 					</a>
